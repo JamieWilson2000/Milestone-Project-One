@@ -1,0 +1,45 @@
+/*Website Trade Color #80020*/
+
+/*Row One with Six Columns*/
+.row-one {
+  height: 100px;
+}
+
+/*Row Two with Three Columns*/
+
+.row-two {
+  margin: 5px;
+  height: 100px;
+}
+
+/*Row Three with Two Columns*/
+
+.row-three {
+  height: 100px;
+}
+
+/*Row Four with Three Columns*/
+
+.row-four {
+  height: 100px;
+}
+
+/*Row Five with Four Columns*/
+
+.row-five {
+  height: 100px;
+}
+
+
+
+
+/*Fixed Footer Stying*/
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #800020;
+  color: white;
+  text-align: center;
+}
