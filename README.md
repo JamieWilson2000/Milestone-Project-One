@@ -1,4 +1,4 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+![logo](assets/images/the musical wave.png)
 
 Milestone Project One
 Jamie Wilson
@@ -13,3 +13,17 @@ I have arrived at the title of "The Musical .wav with a wave icon to instill the
 pronounciation of wave instead of wav.(maybe I'm trying to be too clever!?!)
 A monthly website aimed at musicians young and old, experienced and unskilled, 
 with the aim to educate and inform those who have an interest in creating music.
+
+The page will consist of:
+A main header with logo,
+A main banner with a main feature,
+A regular feature "meet the artists",
+A regular feature "tech news",
+A "this month" feature which would target a different aspect of music technology each month,
+and finally a footer contining social links and copyright/ownership information.
+
+
+Source of images used:
+Audio Interfaces :  https://www.nytimes.com/wirecutter/reviews/best-usb-audio-interface/
+Sophia Loizou :     https://blog.bimm.co.uk/sophia-loizou-women-in-music
+Tech News:          https://www.musicradar.com/news/the-best-daws-the-best-music-production-software-for-pc-and-mac

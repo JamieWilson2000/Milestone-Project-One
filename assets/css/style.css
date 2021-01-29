@@ -1,19 +1,19 @@
+/*THIS IS THE GENERAL SECTION STYLING*/
 
-
+body {
+  background: black;
+}
 
 h1 {
   text-align:center;
 }
 .container-fluid {
   text-align: center;
+  
 }
 
 h3 {
   text-align: center;
-}
-
-hr {
-  height: 50px; 
   
 }
 
@@ -21,7 +21,59 @@ section {
   margin: 0;
 }
 
-.logo {
+hr {
+  border: none;
+  margin-bottom: 5px;
+}
+
+
+/*THIS IS THE SECOND SECTION STYLING*/
+
+.leftarticle {
+  z-index: 1;
+  background: url("/assets/images/Sophia-Loizou.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  left: 50px;
+  bottom: 30px;
+  min-height: 360px;
+  
+}
+
+.labelstyle {
+  margin-left: 350px;
+  font-size: xx-large;
+  color: gold;
+}
+
+.labelstyle2 {
+  margin-left: 350px;
+  font-size: xxx-large;
+  color: gold;
+}
+
+.labelstyle3 {
+  margin-left: 350px;
+  font-size: large;
+  color: gold;
+}
+
+.rightarticle {
+  background: url("/assets/images/DAW Screens.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  right: 50px;
+  min-height: 360px;
+}
+
+
+
+
+/*THIS IS THE THIRD SECTION STYLING*/
+
+.thismonthbanner {
   background: url("/assets/images/usbaudiointerfaces-2x1-.jpg");
   background-position: center;
   background-repeat: no-repeat;
@@ -37,7 +89,7 @@ section {
   font-weight: 100;
   font-size: 46px;
   margin-top: 50px;
-  color: #fff;
+  color: gold;
 }
 
 .subject {  
@@ -45,12 +97,12 @@ section {
   font-size: 28px;
   margin-top: 20px;
   margin-bottom: 140px;
-  color: #fff;
+  color: gold;
 }
 
 
 
-/*STYLING FOR THE FOOTER*/
+/*THIS IS THE FOOTER AREA STYLING*/
 
 i {
   width: 30px;
@@ -68,7 +120,6 @@ footer {
   max-width: 100%;
   background: -webkit-linear-gradient(green, black);
   position: relative;
-  border-top: 1px solid;
   border-bottom: 1px solid;
 }
 
