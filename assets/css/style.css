@@ -28,6 +28,63 @@ hr {
   margin-bottom: 5px;
 }
 
+/*THIS IS THE HEADER SECTION STYLING*/
+
+.header {
+  max-width: 100%;
+  height: 150px;
+  background: -webkit-linear-gradient(green, black);
+  position: relative;
+  border-bottom: 1px solid;
+}
+
+/*THIS IS THE FIRST SECTION STYLING*/
+
+.landingpage {
+  background: url("/assets/images/Bedroom-Studio-Main.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 360px;
+  margin-left: 160px;
+  margin-bottom: 50px;
+  border: 2px solid green;
+}
+
+.heading {
+  background: -webkit-linear-gradient(black, green);
+}
+
+.name {  
+  font-weight: 100;
+  font-size: 46px;
+  margin-top: 50px;
+  color: gold;
+}
+
+.subject {  
+  font-weight: 200;
+  font-size: 28px;
+  margin-top: 20px;
+  margin-bottom: 140px;
+  color: gold;
+}
+
+.labelstyle6 {
+  background: -webkit-linear-gradient(black, green);
+  margin-top: 255px;
+  margin-left:60px;
+  text-align: center;
+  font-size: xxx-large;
+  color: gold;
+}
+
+.labelstyle7 {
+  background: -webkit-linear-gradient(green, black);
+  text-align: center;
+  color: gold;
+}
+
 
 /*THIS IS THE SECOND SECTION STYLING*/
 
@@ -80,7 +137,7 @@ hr {
 }
 
 .labelstyle5 {
-    border: 3px solid black;
+  border: 3px solid black;
   background: green;
   margin-top: 40px;
   margin-left: 300px;

@@ -22,6 +22,9 @@ A regular feature "tech news",
 A "this month" feature which would target a different aspect of music technology each month,
 and finally a footer contining social links and copyright/ownership information.
 
+I have decided to go with a style of text where I refrain from using capitals,I 
+personally like this style but to some I appreciate it can look un-attractive. 
+
 
 Source of images used:
 Audio Interfaces :  https://www.nytimes.com/wirecutter/reviews/best-usb-audio-interface/
