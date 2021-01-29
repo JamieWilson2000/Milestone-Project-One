@@ -27,6 +27,7 @@ personally like this style but to some I appreciate it can look un-attractive.
 
 
 Source of images used:
+Next Big Hit:       https://www.digitaldjtips.com/2018/11/how-dance-music-is-made-today-part-1-the-rise-of-the-bedroom-producer/
 Audio Interfaces :  https://www.nytimes.com/wirecutter/reviews/best-usb-audio-interface/
 Sophia Loizou :     https://blog.bimm.co.uk/sophia-loizou-women-in-music
 Tech News:          https://www.musicradar.com/news/the-best-daws-the-best-music-production-software-for-pc-and-mac
