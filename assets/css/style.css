@@ -1,45 +1,77 @@
-/*Website Trade Color #80020*/
 
-/*Row One with Six Columns*/
-.row-one {
-  height: 100px;
+
+
+h1 {
+  text-align:center;
 }
-
-/*Row Two with Three Columns*/
-
-.row-two {
-  margin: 5px;
-  height: 100px;
-}
-
-/*Row Three with Two Columns*/
-
-.row-three {
-  height: 100px;
-}
-
-/*Row Four with Three Columns*/
-
-.row-four {
-  height: 100px;
-}
-
-/*Row Five with Four Columns*/
-
-.row-five {
-  height: 100px;
-}
-
-
-
-
-/*Fixed Footer Stying*/
-.footer {
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  background-color: #800020;
-  color: white;
+.container-fluid {
   text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+hr {
+  height: 50px; 
+  
+}
+
+section {
+  margin: 0;
+}
+
+.logo {
+  background: url("/assets/images/usbaudiointerfaces-2x1-.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 360px;
+}
+
+.heading {
+  background: -webkit-linear-gradient(black, green);
+}
+
+.name {  
+  font-weight: 100;
+  font-size: 46px;
+  margin-top: 50px;
+  color: #fff;
+}
+
+.subject {  
+  font-weight: 200;
+  font-size: 28px;
+  margin-top: 20px;
+  margin-bottom: 140px;
+  color: #fff;
+}
+
+
+
+/*STYLING FOR THE FOOTER*/
+
+i {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+
+.social-links {
+  font-size: 30px;
+  color: gold;
+  text-align: center;
+}
+
+footer {
+  max-width: 100%;
+  background: -webkit-linear-gradient(green, black);
+  position: relative;
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+}
+
+footer p {
+  font-size: x-small;
 }
