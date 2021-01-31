@@ -48,6 +48,19 @@ hr {
   margin-left: 160px;
   margin-bottom: 50px;
   border: 2px solid green;
+
+  animation-name: studio-zoom;
+  animation-duration: 3s;
+  animation-fill-mode: forwards ;
+}
+
+@keyframes studio-zoom {
+    from {
+        transform: scale(1);
+    }
+    to {
+        transform: scale(1.1);
+    }
 }
 
 .heading {
